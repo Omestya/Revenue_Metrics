@@ -7,5 +7,5 @@
 - Calculating customer lifetime metrics (Customer Lifetime, LTV)
 - Developing an interactive dashboard to monitor subscription business performance
 # Result:
-Created an interactive subscription analytics dashboard to track revenue, customer activity, retention, and churn. Analyzed key SaaS metrics to evaluate subscription performance and identify trends in customer behavior.
+Created an interactive subscription analytics dashboard to track revenue, customer activity, retention, and churn. Analyzed key SaaS metrics to evaluate subscription performance and identify trends in customer behavior. [Link to the dashboard](https://public.tableau.com/views/omelchuk_finalproject2/Project2RevenueMetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![dashboard](https://github.com/Omestya/Revenue_Metrics/blob/main/revenue_metrics_dashboard.png)
